@@ -1,4 +1,4 @@
-public class BreakStatementWithLabel {
+public class BreakWithLabel {
     public static void main(String[] args) {
 
         int[][] arrayOfInts = {
